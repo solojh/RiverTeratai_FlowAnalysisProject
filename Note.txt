@@ -1,0 +1,8 @@
+Pyorc Documentation
+https://localdevices.github.io/pyorc/intro.html
+
+Github
+https://github.com/localdevices/pyorc/tree/main
+
+Open google colab open this file River_Teratai.ipynb
+Then run the coding.
