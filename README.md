@@ -36,7 +36,9 @@ pip install pyorc pyopenrivercam cartopy
 - Overlay velocity vector fields with color mapping.  
 - Compute time-averaged flow velocity and apply spatial filtering.  
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/d3bb74c8-5854-4ddc-8a77-df3aec046e0c)
+
+
 
 
 
