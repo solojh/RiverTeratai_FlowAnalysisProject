@@ -1,4 +1,4 @@
-# River Teratai Flow Analysis
+# River Teratai Flow Analysis (Drone Video-Based)
 ## 🚁 Drone-Based Data Collection
 
 The source video was captured using a **drone-mounted camera** flying over River Teratai. The drone allows for a stable aerial perspective, enabling accurate frame extraction and ground control point (GCP) marking for georectification and flow analysis.
