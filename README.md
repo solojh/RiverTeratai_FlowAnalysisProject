@@ -4,7 +4,7 @@ The dataset for this project is available on Google Drive:
 🔗 [River Teratai Data](https://drive.google.com/drive/folders/180sGavZzXUh0TQSTP3UN8WoXxwi1o0_v?usp=sharing)
 
 ## 📓 Jupyter Notebook
-The analysis and visualizations are included in this Jupyter Notebook:
+Since the file is larger than 25MB, the analysis and visualizations are included in this Jupyter Notebook：
 🔗 [River Teratai Notebook](https://drive.google.com/file/d/1yk2g2cQFL-JyOuN5u3HAmyAMUFP2ruep/view?usp=sharing)
 
 
